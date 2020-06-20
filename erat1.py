@@ -1,3 +1,4 @@
+# sajat szerzemeny, nagy szamokra belassul
 def erat(n):
 
     a = []
