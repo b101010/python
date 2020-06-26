@@ -1,8 +1,8 @@
-n = 10
+n = 5
 #a = [0,2,4,6]
 a=[]
 
-for i in range(0,n+4,2):
+for i in range(0,n,2):
     a.append(i)
 
 b = len(a)
