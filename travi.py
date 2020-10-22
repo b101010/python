@@ -25,7 +25,6 @@ kata = {
     "vas": 400
 }
 #****************************************************
-#attol fuggoen, h. mit szeretnel gyartani vedd ki a kommenteket(""")
 
 #EI IMPI KATA
 EIK = np.array([
